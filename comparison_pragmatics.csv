@@ -1,0 +1,5 @@
+model,overall_accuracy,idiom_proverb,indirect_speech_act,sarcasm
+GPT-OSS-120B-Groq,0.944,1.0,1.0,0.833
+ALLaM-7B-Instruct-preview,0.944,1.0,1.0,0.833
+Jais-2-8B-Chat,0.889,1.0,1.0,0.667
+Qwen3-8B,1.0,1.0,1.0,1.0

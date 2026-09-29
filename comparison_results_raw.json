@@ -1,0 +1,2290 @@
+{
+  "GPT-OSS-120B-Groq__pragmatics": [
+    {
+      "id": "sarcasm_01",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_02",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_03",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_04",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_05",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "sarcasm_06",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_01",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_02",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_03",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_04",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_05",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_06",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_01",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_02",
+      "phenomenon": "idiom_proverb",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "idiom_03",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_04",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_05",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_06",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    }
+  ],
+  "GPT-OSS-120B-Groq__emotion": [
+    {
+      "id": "emotion_195",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_74",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_193",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_153",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_89",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_272",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_382",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_319",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_257",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_372",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_500",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_528",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_545",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_544",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_424",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_706",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_592",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_682",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_575",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_708",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_932",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_855",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_908",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_912",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_891",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1026",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_981",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_948",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_980",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1036",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1141",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1202",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1142",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1351",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1133",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1577",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 11,
+      "correct": false,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1526",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1533",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1573",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1571",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1616",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_1634",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1687",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 11,
+      "correct": false,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1617",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1641",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_1776",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1894",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_1892",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1788",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1821",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1955",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_2019",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 8,
+      "correct": true,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_2062",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    }
+  ],
+  "ALLaM-7B-Instruct-preview__pragmatics": [
+    {
+      "id": "sarcasm_01",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_02",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_03",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "sarcasm_04",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_05",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_06",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_01",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_02",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_03",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_04",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_05",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_06",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_01",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_02",
+      "phenomenon": "idiom_proverb",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "idiom_03",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_04",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_05",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_06",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    }
+  ],
+  "ALLaM-7B-Instruct-preview__emotion": [
+    {
+      "id": "emotion_195",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_74",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_193",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_153",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_89",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_272",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_382",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_319",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_257",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_372",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 10,
+      "correct": true,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_500",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_528",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_545",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_544",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_424",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_706",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_592",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_682",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_575",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_708",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_932",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_855",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_908",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_912",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_891",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1026",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_981",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_948",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_980",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1036",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1141",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1202",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1142",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1351",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_1133",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1577",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 11,
+      "correct": false,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1526",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1533",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1573",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1571",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1616",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1634",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1687",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_1617",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1641",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1776",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 8,
+      "correct": true,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1894",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_1892",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1788",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1821",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1955",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_2019",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_2062",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    }
+  ],
+  "Jais-2-8B-Chat__pragmatics": [
+    {
+      "id": "sarcasm_01",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_02",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_03",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "sarcasm_04",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_05",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_06",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "indirect_01",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_02",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_03",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_04",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_05",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_06",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_01",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_02",
+      "phenomenon": "idiom_proverb",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "idiom_03",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_04",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_05",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_06",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    }
+  ],
+  "Jais-2-8B-Chat__emotion": [
+    {
+      "id": "emotion_195",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_74",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_193",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_153",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_89",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_272",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_382",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_319",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_257",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_372",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_500",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_528",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_545",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_544",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_424",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_706",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_592",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_682",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_575",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_708",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_932",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_855",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_908",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_912",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_891",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1026",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_981",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_948",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_980",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1036",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1141",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1202",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_1142",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 11,
+      "correct": false,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1351",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_1133",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1577",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 11,
+      "correct": false,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_1526",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1533",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1573",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1571",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1616",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1634",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1687",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_1617",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1641",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_1776",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1894",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_1892",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1788",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1821",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1955",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_2019",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 8,
+      "correct": true,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_2062",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    }
+  ],
+  "Qwen3-8B__pragmatics": [
+    {
+      "id": "sarcasm_01",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_02",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_03",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_04",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_05",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "sarcasm_06",
+      "phenomenon": "sarcasm",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_01",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_02",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_03",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_04",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_05",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "indirect_06",
+      "phenomenon": "indirect_speech_act",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_01",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_02",
+      "phenomenon": "idiom_proverb",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "idiom_03",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_04",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_05",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "idiom_06",
+      "phenomenon": "idiom_proverb",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    }
+  ],
+  "Qwen3-8B__emotion": [
+    {
+      "id": "emotion_195",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_74",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_193",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_153",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_89",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_272",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10. fear"
+    },
+    {
+      "id": "emotion_382",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_319",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10."
+    },
+    {
+      "id": "emotion_257",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_372",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_500",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10. fear"
+    },
+    {
+      "id": "emotion_528",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_545",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_544",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 5,
+      "correct": true,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_424",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11"
+    },
+    {
+      "id": "emotion_706",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_592",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_682",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_575",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_708",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 9,
+      "correct": false,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_932",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_855",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 11,
+      "correct": true,
+      "raw_output": "11."
+    },
+    {
+      "id": "emotion_908",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 2,
+      "correct": true,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_912",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_891",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1026",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_981",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    },
+    {
+      "id": "emotion_948",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_980",
+      "phenomenon": "emotion_classification",
+      "gold": 11,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1036",
+      "phenomenon": "emotion_classification",
+      "gold": 2,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1141",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 10,
+      "correct": false,
+      "raw_output": "10"
+    },
+    {
+      "id": "emotion_1202",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_1142",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1351",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1133",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1577",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 1,
+      "correct": false,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1526",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1533",
+      "phenomenon": "emotion_classification",
+      "gold": 7,
+      "pred": 7,
+      "correct": true,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1573",
+      "phenomenon": "emotion_classification",
+      "gold": 3,
+      "pred": 3,
+      "correct": true,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1571",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 7,
+      "correct": false,
+      "raw_output": "7"
+    },
+    {
+      "id": "emotion_1616",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 3,
+      "correct": false,
+      "raw_output": "3"
+    },
+    {
+      "id": "emotion_1634",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1687",
+      "phenomenon": "emotion_classification",
+      "gold": 5,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1617",
+      "phenomenon": "emotion_classification",
+      "gold": 10,
+      "pred": 4,
+      "correct": false,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1641",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 6,
+      "correct": false,
+      "raw_output": "6"
+    },
+    {
+      "id": "emotion_1776",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 2,
+      "correct": false,
+      "raw_output": "2"
+    },
+    {
+      "id": "emotion_1894",
+      "phenomenon": "emotion_classification",
+      "gold": 9,
+      "pred": 9,
+      "correct": true,
+      "raw_output": "9"
+    },
+    {
+      "id": "emotion_1892",
+      "phenomenon": "emotion_classification",
+      "gold": 4,
+      "pred": 4,
+      "correct": true,
+      "raw_output": "4"
+    },
+    {
+      "id": "emotion_1788",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1821",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 1,
+      "correct": true,
+      "raw_output": "1"
+    },
+    {
+      "id": "emotion_1955",
+      "phenomenon": "emotion_classification",
+      "gold": 6,
+      "pred": 8,
+      "correct": false,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_2019",
+      "phenomenon": "emotion_classification",
+      "gold": 8,
+      "pred": 8,
+      "correct": true,
+      "raw_output": "8"
+    },
+    {
+      "id": "emotion_2062",
+      "phenomenon": "emotion_classification",
+      "gold": 1,
+      "pred": 5,
+      "correct": false,
+      "raw_output": "5"
+    }
+  ]
+}
